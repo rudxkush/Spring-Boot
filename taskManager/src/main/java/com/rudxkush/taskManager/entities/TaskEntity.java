@@ -11,4 +11,5 @@ public class TaskEntity {
     private String description;
     private Date deadline;
     private Boolean completed;
+//    private List<NoteEntity> notes;
 }
